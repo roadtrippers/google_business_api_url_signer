@@ -6,7 +6,7 @@ Signs URLs used to call Google's business APIs.
 
 Add this line to your application's Gemfile:
 
-    gem 'google_business_api_url_signer', git: 'git://github.com/Skalar/google_business_api_url_signer.git'
+    gem 'google_business_api_url_signer', git: 'git://github.com/roadtrippers/google_business_api_url_signer.git'
 
 
 And then execute:
